@@ -1,0 +1,177 @@
+Grid 79-94:
+{
+  "object_description": "blue bottle on left shelf",
+  "contact_frame": 80,
+  "separation_frame": 94,
+  "reasoning": "The hand approaches the blue bottle on the left shelf in frame 79. It makes contact with the bottle in frame 80, holding it from frame 80 to 93. The hand releases the bottle in frame 94, as indicated by the hand moving away without any further contact."
+}
+
+Grid 95-110:
+{
+  "object_description": "Blue object on the top shelf",
+  "contact_frame": 96,
+  "separation_frame": 108,
+  "reasoning": "The hand approaches the blue object on the top shelf in frame 96, making contact with it. The hand holds the object from frame 96 to 108, as indicated by the consistent position of the hand and the object. The separation occurs in frame 108, where the hand begins to move away from the object, as seen by the slight gap between the fingers and the object."
+}
+
+Grid 111-120:
+{
+  "object_description": "white bottle on the second shelf from the top, second from the left",
+  "contact_frame": "116",
+  "separation_frame": "120",
+  "reasoning": "The hand approaches the white bottle in frame 115, makes clear contact with it in frame 116, holds it from frame 116 to 119, and begins to separate in frame 120, as indicated by the hand moving away from the bottle without fully releasing it."
+}Grid 127-142:
+{
+  "object_description": "black pen on top shelf",
+  "contact_frame": 130,
+  "separation_frame": 138,
+  "reasoning": "The hand approaches the black pen at frame 129, makes clear physical contact with it at frame 130, holds it from frame 130 to 137, and begins to let go at frame 138, as the hand moves away from the object."
+}
+
+Grid 143-158:
+{
+  "object_description": "white cabinet door on the right shelf",
+  "contact_frame": 147,
+  "separation_frame": 150,
+  "reasoning": "The hand approaches the white cabinet door on the right shelf starting from frame 147. At frame 147, the hand makes initial contact with the door. The hand continues to hold and manipulate the door until frame 150, where the hand begins to separate from the door, as indicated by the fingers moving away slightly. The separation is confirmed by the hand being visibly further away from the door in frame 150 compared to the previous frames."
+}
+
+Grid 159-164:
+{
+  "object_description": "white wipes pack on top shelf",
+  "contact_frame": 160,
+  "separation_frame": 164,
+  "reasoning": "The hand approaches the white wipes pack on the top shelf in frame 159. It makes clear physical contact with the wipes pack in frame 160, as indicated by the hand's fingers overlapping the pack. The hand continues to hold the wipes pack from frame 160 to 163. In frame 164, the hand begins to move away, as seen by the fingers starting to separate from the pack, indicating the start of separation."
+}Grid 172-187:
+{
+  "object_description": "Blue cloth on the middle shelf",
+  "contact_frame": 172,
+  "separation_frame": 187,
+  "reasoning": "The hand approaches the blue cloth at frame 172, makes clear physical contact at frame 173, holds it from frame 173 to 186, and releases it at frame 187, as the hand moves away from the object."
+}
+
+Grid 188-203:
+{
+  "object_description": "white tissue on the shelf",
+  "contact_frame": 192,
+  "separation_frame": 203,
+  "reasoning": "The hand approaches the white tissue at frame 192, makes clear physical contact with it at frame 192, holds it from frame 192 to 202, and releases it at frame 203 as the hand moves away from the object."
+}
+
+Grid 204-215:
+{
+  "object_description": "white wipes pack on the middle shelf",
+  "contact_frame": "209",
+  "separation_frame": "214",
+  "reasoning": "The hand approaches the white wipes pack on the middle shelf in frame 208. It makes clear physical contact with the pack in frame 209, as indicated by the fingers visibly touching the pack. The hand holds the pack from frame 209 to 213, and then releases it in frame 214, as seen by the hand moving away without further contact. The separation is marked at the earliest visible sign that the fingers are no longer in full contact with the object."
+}Grid 223-238:
+{
+  "object_description": "white wipes pack on top shelf",
+  "contact_frame": "228",
+  "separation_frame": "237",
+  "reasoning": "The hand approaches the white wipes pack on the top shelf in frame 223. It makes clear physical contact with the pack in frame 228, as indicated by the fingers visibly overlapping the pack. The hand holds the pack from frame 228 to 236, and releases it in frame 237, where the hand begins to move away from the pack."
+}
+
+Grid 239-254:
+{
+  "object_description": "yellow object on middle shelf",
+  "contact_frame": 240,
+  "separation_frame": 254,
+  "reasoning": "The hand approaches the yellow object at frame 240, makes clear physical contact with it at frame 240, holds it from frame 240 to 254, and releases it at frame 254 as the hand moves away from the object."
+}
+
+Grid 255-262:
+{
+  "object_description": "yellow pen on top shelf",
+  "contact_frame": 256,
+  "separation_frame": 260,
+  "reasoning": "The hand approaches the yellow pen at frame 255, makes clear physical contact with it at frame 256, holds it from frame 256 to 259, and begins to separate at frame 260, as the hand moves away from the pen."
+}Grid 272-287:
+{
+  "object_description": "blue pencil on top shelf",
+  "contact_frame": 276,
+  "separation_frame": 280,
+  "reasoning": "The hand approaches the blue pencil at frame 276, makes clear physical contact with it at frame 277, holds it from frame 277 to 280, and begins to let go at frame 280, as the hand moves away from the object."
+}
+
+Grid 288-303:
+{
+  "object_description": "Blue bottle on the left shelf",
+  "contact_frame": 297,
+  "separation_frame": 303,
+  "reasoning": "The hand approaches the blue bottle on the left shelf starting from frame 296. At frame 297, the hand makes clear physical contact with the bottle, as indicated by the fingers overlapping the bottle's surface. The hand holds the bottle from frame 297 to 302, and releases it at frame 303, as the hand begins to move away from the bottle."
+}
+
+Grid 304-309:
+{
+  "object_description": "blue bottle on left shelf",
+  "contact_frame": 305,
+  "separation_frame": 306,
+  "reasoning": "The hand approaches the blue bottle on the left shelf in frame 304. In frame 305, the hand makes clear physical contact with the bottle, as indicated by the fingers overlapping the bottle's surface. The hand continues to hold the bottle until frame 306, where the hand begins to separate from the bottle, as seen by the fingers starting to move away. The separation is confirmed in frame 306, where the hand is no longer fully in contact with the bottle."
+}Grid 321-336:
+{
+  "object_description": "yellow pencil on top shelf",
+  "contact_frame": 325,
+  "separation_frame": 336,
+  "reasoning": "The hand approaches the yellow pencil at frame 325, makes clear physical contact with it at frame 326, holds it from frame 326 to 335, and releases it at frame 336 as the hand moves away from the object."
+}
+
+Grid 337-352:
+{
+  "object_description": "yellow object on top shelf",
+  "contact_frame": 338,
+  "separation_frame": 349,
+  "reasoning": "The hand approaches the yellow object on the top shelf in frame 337. It makes clear contact with the object in frame 338, as indicated by the positioning of the fingers and the alignment with the object. The hand holds the object from frame 338 to 348, and then begins to separate in frame 349, where the fingers start to move away from the object. The separation is evident by the slight gap between the fingers and the object in frame 349."
+}
+
+Grid 353-353:
+{
+  "object_description": "white container on top shelf",
+  "contact_frame": null,
+  "separation_frame": null,
+  "reasoning": "The grid contains mostly black frames, and there is no visible hand-object interaction. The white container remains stationary throughout the frames, and there is no indication of a hand approaching, touching, or moving away from it."
+}Grid 363-378:
+{
+  "object_description": "white bottle on top shelf",
+  "contact_frame": 364,
+  "separation_frame": 378,
+  "reasoning": "The hand approaches the white bottle on the top shelf in frame 363. It makes clear physical contact with the bottle in frame 364. The hand holds the bottle firmly throughout frames 365 to 377. In frame 378, the hand begins to move away, indicating the start of separation. The hand is still holding the bottle at the end of the grid, so separation is not definitive within these frames."
+}
+
+Grid 379-394:
+{
+  "object_description": "white rectangular object on the right shelf",
+  "contact_frame": 380,
+  "separation_frame": 394,
+  "reasoning": "The hand approaches the white rectangular object on the right shelf starting from frame 379. At frame 380, the hand makes clear physical contact with the object. The hand holds the object from frame 380 to 393, and then releases it at frame 394, as the hand moves away from the object."
+}
+
+Grid 395-402:
+{
+  "object_description": "white cloth on top shelf",
+  "contact_frame": 396,
+  "separation_frame": 401,
+  "reasoning": "The hand approaches the white cloth on the top shelf in frame 395. In frame 396, the hand makes clear physical contact with the cloth, indicating a grasp. The hand maintains contact throughout frames 397 and 398, suggesting manipulation. By frame 401, the hand begins to move away, indicating the start of separation. The hand is still in close proximity but not fully in contact by frame 402, confirming separation."
+}Grid 408-423:
+{
+  "object_description": "white box on top shelf",
+  "contact_frame": 413,
+  "separation_frame": 419,
+  "reasoning": "The hand approaches the white box on the top shelf in frame 413, makes clear physical contact with it in frame 413, holds it from frame 413 to 418, and releases it in frame 419. The contact is evident due to the hand's fingers overlapping the box, and the separation is marked by the hand moving away slightly without full contact in frame 419."
+}
+
+Grid 424-439:
+{
+  "object_description": "black pen on the middle shelf",
+  "contact_frame": 428,
+  "separation_frame": 435,
+  "reasoning": "The hand approaches the black pen at frame 428, makes clear physical contact with it at frame 429, holds it from frame 429 to 434, and begins to let go at frame 435, as the hand moves away from the pen."
+}
+
+Grid 440-450:
+{
+  "object_description": "white bottle on top shelf",
+  "contact_frame": 441,
+  "separation_frame": 447,
+  "reasoning": "The hand approaches the white bottle on the top shelf in frame 440. It makes clear physical contact with the bottle in frame 441. The hand holds the bottle from frame 441 to 446. The separation is marked at frame 447 because the hand begins to move away from the bottle, with the fingers no longer fully touching the bottle."
+}

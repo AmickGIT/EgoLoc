@@ -1,0 +1,201 @@
+Grid 79-94:
+```json
+{
+  "start_point": 83,
+  "end_point": 94,
+  "reason": "The hand makes physical contact with the object on the shelf at frame 83 and separates from it at frame 94, indicating the beginning and end of the action."
+}
+```
+
+Grid 95-110:
+```json
+{
+  "start_point": 95,
+  "end_point": 110,
+  "reason": "The hand makes physical contact with the object on the shelf at the 95th frame and separates from it at the 110th frame, indicating the start and end of the action."
+}
+```
+
+Grid 111-120:
+```json
+{
+  "start_point": 1,
+  "end_point": 2,
+  "reason": "The hand reaches out and touches the object on the shelf in the first frame, indicating the start of the action."
+}
+```Grid 127-142:
+```json
+{
+  "start_point": 132,
+  "end_point": 142,
+  "reason": "The hand makes physical contact with the object on shelf 132 and separates from it on shelf 142, indicating the start and end of the action."
+}
+```
+
+Grid 143-158:
+```json
+{
+  "start_point": 143,
+  "end_point": 158,
+  "reason": "The hand makes physical contact with the object on the shelf at the beginning and separates from it at the end of the sequence."
+}
+```
+
+Grid 159-164:
+```json
+{
+  "start_point": 163,
+  "end_point": 164,
+  "reason": "The hand is seen making physical contact with the object on the shelf, indicating the beginning of the action."
+}
+```Grid 172-187:
+```json
+{
+  "start_point": 172,
+  "end_point": 187,
+  "reason": "The hand makes physical contact with the object on the shelf at the beginning and separates from it at the end of the sequence."
+}
+```
+
+Grid 188-203:
+```json
+{
+  "start_point": 192,
+  "end_point": 203,
+  "reason": "The hand makes physical contact with the object at frame 192 and separates from it at frame 203, indicating the start and end of the action."
+}
+```
+
+Grid 204-215:
+```json
+{
+  "start_point": 204,
+  "end_point": 215,
+  "reason": "The hand makes physical contact with the object on the shelf at frame 204 and separates from it at frame 215, indicating the beginning and end of the action."
+}
+```Grid 223-238:
+```json
+{
+  "start_point": 231,
+  "end_point": 238,
+  "reason": "The hand makes physical contact with the object on shelf 231 and separates from it on shelf 238, indicating the start and end of the action."
+}
+```
+
+Grid 239-254:
+```json
+{
+  "start_point": 243,
+  "end_point": 246,
+  "reason": "The hand reaches towards the object on the shelf and begins to interact with it."
+}
+```
+
+Grid 255-262:
+```json
+{
+  "start_point": 255,
+  "end_point": 262,
+  "reason": "The hand makes physical contact with the object on the shelf at the beginning and separates from it at the end of the sequence."
+}
+```Grid 272-287:
+```json
+{
+  "start_point": 272,
+  "end_point": 287,
+  "reason": "The hand makes physical contact with the object on the shelf at frame 272 and separates from it at frame 287, indicating the start and end of the action."
+}
+```
+
+Grid 288-303:
+```json
+{
+  "start_point": 288,
+  "end_point": 303,
+  "reason": "The hand makes physical contact with the object on the shelf at frame 288 and separates from it at frame 303, indicating the start and end of the action."
+}
+```
+
+Grid 304-309:
+```json
+{
+  "start_point": 304,
+  "end_point": 307,
+  "reason": "The hand is seen reaching towards the object on the shelf, indicating the beginning of the action."
+}
+```Grid 321-336:
+```json
+{
+  "start_point": 321,
+  "end_point": 336,
+  "reason": "The hand makes physical contact with the object on the shelf at the beginning and separates from it at the end of the sequence."
+}
+```
+
+Grid 337-352:
+```json
+{
+  "start_point": 341,
+  "end_point": 352,
+  "reason": "The hand reaches for the object on the shelf and then releases it, indicating the completion of the action."
+}
+```
+
+Grid 353-353:
+```json
+{
+  "start_point": 3,
+  "end_point": 7,
+  "reason": "The hand makes physical contact with the object on the shelf at the third frame and separates from it by the seventh frame."
+}
+```Grid 363-378:
+```json
+{
+  "start_point": 363,
+  "end_point": 378,
+  "reason": "The hand makes physical contact with the object on the shelf at frame 363 and separates from it at frame 378, indicating the start and end of the action."
+}
+```
+
+Grid 379-394:
+```json
+{
+  "start_point": 379,
+  "end_point": 382,
+  "reason": "The hand is seen reaching towards the object on the shelf, indicating the beginning of the action."
+}
+```
+
+Grid 395-402:
+```json
+{
+  "start_point": 395,
+  "end_point": 402,
+  "reason": "The hand makes physical contact with the object on the shelf at frame 395 and separates from it at frame 402, indicating the beginning and end of the action."
+}
+```Grid 408-423:
+```json
+{
+  "start_point": 412,
+  "end_point": 423,
+  "reason": "The hand reaches for the object on the shelf and then releases it, indicating the completion of the action."
+}
+```
+
+Grid 424-439:
+```json
+{
+  "start_point": 428,
+  "end_point": 439,
+  "reason": "The hand makes physical contact with the object on the third shelf and then separates from it after completing the action."
+}
+```
+
+Grid 440-450:
+```json
+{
+  "start_point": 440,
+  "end_point": 450,
+  "reason": "The hand makes physical contact with the object on the shelf at the beginning and separates from it at the end of the sequence."
+}
+```

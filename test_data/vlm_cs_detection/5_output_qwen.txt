@@ -1,0 +1,221 @@
+Grid 79-94:
+```json
+{
+  "object_description": "blue bottle on right shelf",
+  "contact_frame": 80,
+  "separation_frame": 86,
+  "reasoning": "The hand approaches the blue bottle on the right shelf at frame 80, grasps it, and holds it from frame 80 to 85. At frame 86, the hand releases the bottle and moves away from it. The bottle remains on the shelf throughout the sequence."
+}
+```
+
+Grid 95-110:
+```json
+{
+  "object_description": "blue bottle on left shelf",
+  "contact_frame": 95,
+  "separation_frame": 110,
+  "reasoning": "The hand approaches the blue bottle on the left shelf at frame 95, makes contact with it, and continues to hold it throughout the sequence until frame 110, where it releases the bottle and moves away. The hand's position and action remain consistent with the bottle being the primary object of interest."
+}
+```
+
+Grid 111-120:
+```json
+{
+  "object_description": "blue bottle on left shelf",
+  "contact_frame": 115,
+  "separation_frame": 120,
+  "reasoning": "The hand approaches the blue bottle on the left shelf at frame 115, grasps it, and holds it from frame 115 to 120. The hand releases the bottle at frame 120, moving away from the shelf."
+}
+```Grid 127-142:
+```json
+{
+  "object_description": "A white cylindrical container on the top shelf.",
+  "contact_frame": 128,
+  "separation_frame": 130,
+  "reasoning": "The hand approaches the white cylindrical container on the top shelf at frame 128, grasps it, and holds it for a moment. At frame 130, the hand releases the container, moving away from it. The container remains stationary during this period."
+}
+```
+
+Grid 143-158:
+```json
+{
+  "object_description": "The hand approaches and then releases the top right corner of the cabinet door.",
+  "contact_frame": 146,
+  "separation_frame": 150,
+  "reasoning": "The hand approaches the top right corner of the cabinet door at frame 146, grasps it briefly, and then releases it at frame 150. The hand does not make any further contact with the door after this frame. The reasoning is based on the sequence of frames where the hand is seen approaching, grasping, and then releasing the door."
+}
+```
+
+Grid 159-164:
+```json
+{
+  "object_description": "blue packet on top shelf",
+  "contact_frame": 160,
+  "separation_frame": 161,
+  "reasoning": "The hand approaches the blue packet at frame 159, grasps it at frame 160, holds it from frame 160 to 161, and releases it at frame 161. The hand then moves away from the object."
+}
+```Grid 172-187:
+```json
+{
+  "object_description": "blue cloth on middle shelf",
+  "contact_frame": 172,
+  "separation_frame": 187,
+  "reasoning": "The hand approaches the blue cloth at frame 172, grasps it firmly at frame 173, holds it from frame 173 to 187, and releases it at frame 187. The hand remains in contact with the cloth throughout the sequence until it is moved away at frame 187."
+}
+```
+
+Grid 188-203:
+```json
+{
+  "object_description": "A hand interacting with a white cloth on a glass shelf.",
+  "contact_frame": 193,
+  "separation_frame": 197,
+  "reasoning": "The hand approaches the white cloth at frame 193, makes initial contact, and then holds the cloth from frame 193 to 197. At frame 197, the hand releases the cloth, moving away from the shelf. The hand remains in the same position on the shelf throughout these frames, indicating that the cloth was the primary object of manipulation."
+}
+```
+
+Grid 204-215:
+```json
+{
+  "object_description": "blue packet on middle shelf",
+  "contact_frame": 204,
+  "separation_frame": 215,
+  "reasoning": "The hand approaches the blue packet at frame 204, grasps it, and holds it from frame 204 to 215. The hand releases the packet at frame 215, moving away from the object."
+}
+```Grid 223-238:
+```json
+{
+  "object_description": "A hand reaches for and picks up a white packet from the middle shelf.",
+  "contact_frame": 227,
+  "separation_frame": 230,
+  "reasoning": "In frame 227, the hand approaches the white packet on the middle shelf. In frame 228, the hand makes contact with the packet. By frame 229, the hand has grasped the packet firmly. The hand continues to hold the packet in frame 230, indicating that the packet is being lifted off the shelf. There is no indication of the hand releasing the packet in this grid."
+}
+```
+
+Grid 239-254:
+```json
+{
+  "object_description": "A white package on the middle shelf.",
+  "contact_frame": 240,
+  "separation_frame": 241,
+  "reasoning": "The hand approaches the white package at frame 240, makes contact with it, and then releases it at frame 241. The hand continues to move away from the package in subsequent frames."
+}
+```
+
+Grid 255-262:
+```json
+{
+  "object_description": "blue packet on middle shelf",
+  "contact_frame": 257,
+  "separation_frame": 260,
+  "reasoning": "The hand approaches the blue packet on the middle shelf at frame 257, grasps it, and holds it from frame 257 to 260. At frame 260, the hand releases the packet, moving away from it. The packet remains on the shelf throughout the sequence."
+}
+```Grid 272-287:
+```json
+{
+  "object_description": "blue bottle on left shelf",
+  "contact_frame": 276,
+  "separation_frame": 280,
+  "reasoning": "The hand approaches the blue bottle on the left shelf at frame 276, makes a clear physical contact, and then releases it at frame 280. The hand continues to move away from the shelf in subsequent frames."
+}
+```
+
+Grid 288-303:
+```json
+{
+  "object_description": "blue bottle on left shelf",
+  "contact_frame": 292,
+  "separation_frame": 303,
+  "reasoning": "The hand approaches the blue bottle on the left shelf at frame 288, grasps it at frame 292, holds it from frame 292 to 303, and releases it at frame 303. The hand is seen moving away from the object in the last frame."
+}
+```
+
+Grid 304-309:
+{
+  "object_description": "blue bottle on right shelf",
+  "contact_frame": 305,
+  "separation_frame": 306,
+  "reasoning": "In frame 305, the hand reaches for the blue bottle on the right shelf and grasps it. In frame 306, the hand releases the bottle, moving away from the shelf. The hand's position changes from approaching and grasping to releasing and moving away, indicating a clear manipulation of the bottle."
+}Grid 321-336:
+```json
+{
+  "object_description": "A hand reaches for and picks up a yellow object from the top shelf.",
+  "contact_frame": 325,
+  "separation_frame": 330,
+  "reasoning": "The hand approaches the top shelf at frame 325, grasps the yellow object, and lifts it at frame 330. The hand releases the object at frame 330, moving away from the shelf. There is no indication of the hand still holding the object or releasing it after frame 330."
+}
+```
+
+Grid 337-352:
+```json
+{
+  "object_description": "blue bottle on left shelf",
+  "contact_frame": 338,
+  "separation_frame": 340,
+  "reasoning": "The hand approaches the blue bottle on the left shelf at frame 337, makes first clear physical contact at frame 338, holds or manipulates the bottle from frame 338 to 340, and releases it at frame 340, as the hand moves away from the object. The release is clearly visible in frame 340."
+}
+```
+
+Grid 353-353:
+{
+  "object_description": "blue bottle on left shelf",
+  "contact_frame": null,
+  "separation_frame": null,
+  "reasoning": "The hand is not interacting with any object in these frames. The scene remains static with no indication of the hand approaching, touching, or releasing any item. The blue bottle on the left shelf appears unchanged throughout the frames."
+}Grid 363-378:
+```json
+{
+  "object_description": "white bottle on top shelf",
+  "contact_frame": 363,
+  "separation_frame": 378,
+  "reasoning": "The hand approaches the white bottle on the top shelf at frame 363, grasps it, and holds it from frame 363 to 378. The hand releases the bottle at frame 378, moving away from the shelf."
+}
+```
+
+Grid 379-394:
+```json
+{
+  "object_description": "white remote control on rightmost shelf",
+  "contact_frame": 380,
+  "separation_frame": 386,
+  "reasoning": "The hand approaches the white remote control on the rightmost shelf at frame 380, grasps it, and holds it from frame 380 to 386. At frame 386, the hand releases the remote control and moves away from the shelf. The hand does not re-grasp the remote control in subsequent frames."
+}
+```
+
+Grid 395-402:
+```json
+{
+  "object_description": "white packet on middle shelf",
+  "contact_frame": 396,
+  "separation_frame": 402,
+  "reasoning": "The hand approaches the white packet on the middle shelf at frame 396, grasps it, and holds it from frame 396 to 402. The hand releases the packet at frame 402, moving away from the object. There is no ambiguity in the contact or separation as the hand clearly interacts with the packet throughout these frames."
+}
+```Grid 408-423:
+```json
+{
+  "object_description": "A white cloth on the top right shelf.",
+  "contact_frame": 415,
+  "separation_frame": 416,
+  "reasoning": "The hand approaches the white cloth at frame 415, grasps it, and holds it for a moment. At frame 416, the hand releases the cloth, moving away from it. The cloth remains on the shelf throughout these frames."
+}
+```
+
+Grid 424-439:
+```json
+{
+  "object_description": "A hand reaches for and grasps a blue bottle on the leftmost shelf.",
+  "contact_frame": 425,
+  "separation_frame": 430,
+  "reasoning": "The hand approaches the blue bottle at frame 424, makes contact with it at frame 425, holds it from frame 425 to 430, and releases it at frame 430. The hand then moves away from the object."
+}
+```
+
+Grid 440-450:
+```json
+{
+  "object_description": "A white bottle on the middle shelf.",
+  "contact_frame": 440,
+  "separation_frame": 450,
+  "reasoning": "The hand approaches the white bottle at frame 440, grasps it at frame 441, holds it from frame 441 to 450, and releases it at frame 450. The hand remains in contact with the bottle until the last frame, indicating a continuous manipulation."
+}
+```

@@ -1,0 +1,201 @@
+Grid 79-94:
+```json
+{
+  "contact_frame": 79,
+  "separation_frame": 94,
+  "explanation": "The hand makes visible physical contact with the object at frame 79 and continues to hold it until frame 94, indicating a clear interaction."
+}
+```
+
+Grid 95-110:
+```json
+{
+  "contact_frame": (96, 100),
+  "separation_frame": (110),
+  "explanation": "The hand makes visible physical contact with the object at frame 96 and continues to hold it until frame 100. It then clearly separates from the object at frame 110."
+}
+```
+
+Grid 111-120:
+```json
+{
+  "contact_frame": (116, 120),
+  "separation_frame": (120, 120),
+  "explanation": "The hand makes visible physical contact with the object on shelf 116 and continues to hold it until frame 120, indicating no clear separation occurred within these frames."
+}
+```Grid 127-142:
+```json
+{
+  "contact_frame": (130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142),
+  "separation_frame": (142),
+  "explanation": "The hand makes visible physical contact with the object on the shelf in multiple frames (130-142) and clearly separates from the object in the final frame (142)."
+}
+```
+
+Grid 143-158:
+```json
+{
+  "contact_frame": (143, 144),
+  "separation_frame": (150, 151),
+  "explanation": "The hand makes visible physical contact with the top shelf at frame 143 and continues to hold onto it until frame 150, indicating a clear separation from the shelf."
+}
+```
+
+Grid 159-164:
+```json
+{
+  "contact_frame": (160, 161),
+  "separation_frame": (162, 163),
+  "explanation": "The hand makes contact with the object at frame 160 and continues to hold it until frame 161. It then releases the object at frame 162, as indicated by the absence of hand contact in frame 163."
+}
+```Grid 172-187:
+```json
+{
+  "contact_frame": (172, 187),
+  "separation_frame": (187, 187),
+  "explanation": "The hand makes visible physical contact with the object on the shelf in the first frame (172) and continues to hold onto it until the last frame (187), indicating no clear separation occurred within these frames."
+}
+```
+
+Grid 188-203:
+```json
+{
+  "contact_frame": (190, 191),
+  "separation_frame": (196, 197),
+  "explanation": "The hand makes visible physical contact with the object at frame 190 and 191, then clearly separates from the object at frame 196 and 197."
+}
+```
+
+Grid 204-215:
+```json
+{
+  "contact_frame": (204, 205),
+  "separation_frame": (215),
+  "explanation": "The hand makes visible physical contact with the object in the first two frames (204 and 205) and remains in contact until the last frame (215), indicating a continuous interaction."
+}
+```Grid 223-238:
+```json
+{
+  "contact_frame": (226, 227),
+  "separation_frame": (230, 231),
+  "explanation": "The hand makes contact with the object on the shelf at frame 226 and continues to hold it until frame 230, indicating a clear interaction."
+}
+```
+
+Grid 239-254:
+```json
+{
+  "contact_frame": (240, 241),
+  "separation_frame": (246, 247),
+  "explanation": "The hand makes visible physical contact with the object on the shelf at frame 240 and continues to hold it until frame 246, indicating a clear separation."
+}
+```
+
+Grid 255-262:
+```json
+{
+  "contact_frame": (255, 260),
+  "separation_frame": (261, 262),
+  "explanation": "The hand makes visible physical contact with the object at frame 255 and continues to hold it until frame 261, then clearly separates from the object at frame 262."
+}
+```Grid 272-287:
+```json
+{
+  "contact_frame": (276, 280),
+  "separation_frame": (287),
+  "explanation": "The hand makes visible physical contact with the object at frame 276 and continues to hold it until frame 287, indicating a clear interaction."
+}
+```
+
+Grid 288-303:
+```json
+{
+  "contact_frame": (290, 291),
+  "separation_frame": (300, 301),
+  "explanation": "The hand makes visible physical contact with the object at frame 290 and continues to hold it until frame 301, indicating a clear interaction."
+}
+```
+
+Grid 304-309:
+```json
+{
+  "contact_frame": (304, 305),
+  "separation_frame": (309, 306),
+  "explanation": "The hand makes contact with the object at frame 304 and continues to hold it until frame 305. It then releases the object at frame 306."
+}
+```Grid 321-336:
+```json
+{
+  "contact_frame": (324, 336),
+  "separation_frame": (336),
+  "explanation": "The hand makes contact with the object at frame 324 and continues to hold it until frame 336, indicating a continuous interaction without clear separation."
+}
+```
+
+Grid 337-352:
+```json
+{
+  "contact_frame": (337, 340),
+  "separation_frame": (344, 348),
+  "explanation": "The hand makes contact with the object at frame 337 and continues to hold it until frame 344, then releases it."
+}
+```
+
+Grid 353-353:
+```json
+{
+  "contact_frame": (324),
+  "separation_frame": (338),
+  "explanation": "The hand makes visible physical contact with the object at frame 324 and continues to hold it until frame 338, indicating a clear separation."
+}
+```Grid 363-378:
+```json
+{
+  "contact_frame": 363,
+  "separation_frame": 378,
+  "explanation": "The hand makes visible physical contact with the object at frame 363 and continues to hold it until frame 378, indicating a clear interaction."
+}
+```
+
+Grid 379-394:
+```json
+{
+  "contact_frame": (379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394),
+  "separation_frame": (394),
+  "explanation": "The hand makes visible physical contact with the object in the first frame and continues to hold it until the last frame before clearly releasing it."
+}
+```
+
+Grid 395-402:
+```json
+{
+  "contact_frame": (396, 397),
+  "separation_frame": (401, 402),
+  "explanation": "The hand makes contact with the object on the top shelf at frame 396 and continues to hold it until frame 401, then clearly releases it at frame 402."
+}
+```Grid 408-423:
+```json
+{
+  "contact_frame": (409, 410),
+  "separation_frame": (411, 412),
+  "explanation": "The hand makes contact with the top shelf at frame 409 and 410, then separates from the shelf at frame 411 and 412."
+}
+```
+
+Grid 424-439:
+```json
+{
+  "contact_frame": (426, 427),
+  "separation_frame": (430, 431),
+  "explanation": "The hand makes contact with the object at frame 426 and continues to hold it until frame 430, indicating a clear interaction. There is no clear separation between frames 430 and 431, suggesting the hand remains in contact with the object."
+}
+```
+
+Grid 440-450:
+```json
+{
+  "contact_frame": 440,
+  "separation_frame": 447,
+  "explanation": "The hand makes visible physical contact with the object on the top shelf at frame 440 and continues to hold it until frame 447, indicating a clear interaction."
+}
+```
