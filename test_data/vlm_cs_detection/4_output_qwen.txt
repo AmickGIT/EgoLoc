@@ -1,0 +1,183 @@
+Grid 79-94:
+{
+  "object_description": "blue object on lower shelf",
+  "contact_frame": 80,
+  "separation_frame": 94,
+  "reasoning": "Hand moves toward the blue object on the lower shelf from frame 80, first touches it with fingers at 85, holds it through 91, and releases at 94. No interaction with other objects."
+}
+
+Grid 95-110:
+```json
+{
+  "object_description": "blue object on middle shelf",
+  "contact_frame": 100,
+  "separation_frame": 106,
+  "reasoning": "Hand moves toward the blue object on the middle shelf, first touches it with fingers at frame 100, holds it through frame 105, and releases at frame 106. No interaction with other objects."
+}
+```
+
+Grid 111-120:
+{
+  "object_description": "blue box on lower shelf",
+  "contact_frame": 115,
+  "separation_frame": 120,
+  "reasoning": "Hand reaches towards the blue box on the lower shelf in frame 115, then grasps it firmly in frame 116, holds it throughout frames 117-120, and finally releases it in frame 120."
+}Grid 127-142:
+{
+  "object_description": "White box on top shelf in the middle row",
+  "contact_frame": 130,
+  "separation_frame": 138,
+  "reasoning": "The hand moves towards the white box on the top shelf in the middle row, touches it with fingers at frame 130, holds it through frame 137, and releases it at frame 138. No interaction with other objects."
+}
+
+Grid 143-158:
+{
+  "object_description": "blue packet on top shelf",
+  "contact_frame": 143,
+  "separation_frame": 158,
+  "reasoning": "The hand moves towards the blue packet on the top shelf in frame 143, then grasps it firmly in frame 144, holds it throughout frames 145-156, and finally releases it in frame 158."
+}
+
+Grid 159-164:
+{
+  "object_description": "blue packet on top shelf",
+  "contact_frame": 159,
+  "separation_frame": 164,
+  "reasoning": "Hand reaches towards the blue packet on the top shelf at frame 159, fingers touch the packet at frame 160, holds it through frame 163, and releases at frame 164. No interaction with other objects."
+}Grid 172-187:
+{
+  "object_description": "blue cloth on the middle shelf",
+  "contact_frame": 176,
+  "separation_frame": 187,
+  "reasoning": "The hand moves towards the blue cloth on the middle shelf in frame 176, then grasps it firmly in frame 177, holds it throughout frames 178 to 185, and finally releases it in frame 187."
+}
+
+Grid 188-203:
+{
+  "object_description": "blue tissue paper on top shelf",
+  "contact_frame": 190,
+  "separation_frame": 203,
+  "reasoning": "The hand moves towards the blue tissue paper on the top shelf in frame 190, grasps it firmly at 193, holds it throughout frames 195-202, and releases it at 203. No interaction with other objects."
+}
+
+Grid 204-215:
+{
+  "object_description": "blue packet on top shelf",
+  "contact_frame": 204,
+  "separation_frame": 215,
+  "reasoning": "Hand reaches towards the blue packet on the top shelf in frame 204, grasps it firmly at 208, holds it steady through 214, and releases it at 215. No interaction with other objects."
+}Grid 223-238:
+{
+  "object_description": "blue package on top shelf",
+  "contact_frame": 225,
+  "separation_frame": 230,
+  "reasoning": "Hand reaches towards the blue package on the top shelf at frame 225, fingers touch the package at 226, holds it through 230, and releases at 230. No interaction with other objects."
+}
+
+Grid 239-254:
+{
+  "object_description": "Yellow object on the middle shelf",
+  "contact_frame": 244,
+  "separation_frame": 250,
+  "reasoning": "The hand moves towards the yellow object on the middle shelf starting from frame 244, makes contact with it at frame 245, holds it until frame 250, and then releases it at frame 251."
+}
+
+Grid 255-262:
+{
+  "object_description": "blue packet on lower shelf",
+  "contact_frame": 259,
+  "separation_frame": 261,
+  "reasoning": "Hand reaches towards the blue packet on the lower shelf in frame 259, fingers touch the packet at 260, and the hand releases the packet at 261."
+}Grid 272-287:
+{
+  "object_description": "blue bottle on middle shelf",
+  "contact_frame": 276,
+  "separation_frame": 287,
+  "reasoning": "Hand moves toward the blue bottle on the middle shelf, fingers touch it at frame 276, holds it through 285, and releases at 287. No interaction with other objects."
+}
+
+Grid 288-303:
+```json
+{
+  "object_description": "blue bottle on top shelf",
+  "contact_frame": 291,
+  "separation_frame": 303,
+  "reasoning": "Hand moves toward the blue bottle on the top shelf, first touches it with fingers at 291, holds it through 295, and releases at 303. No interaction with other objects."
+}
+```
+
+Grid 304-309:
+{
+  "object_description": "blue bottle on top shelf",
+  "contact_frame": 305,
+  "separation_frame": 308,
+  "reasoning": "Hand reaches towards the blue bottle on the top shelf at frame 305, grasps it firmly at 306, and releases it at 308. No interaction with other objects."
+}Grid 321-336:
+{
+  "object_description": "Yellow object on the top shelf",
+  "contact_frame": 327,
+  "separation_frame": 344,
+  "reasoning": "Hand approaches the yellow object from frame 324, first touches it with fingers at 327, holds it through 343, and releases at 344. No interaction with the black object."
+}
+
+Grid 337-352:
+{
+  "object_description": "Yellow object on the top shelf",
+  "contact_frame": 327,
+  "separation_frame": 344,
+  "reasoning": "Hand approaches the yellow object from frame 324, first touches it with fingers at 327, holds it through 343, and releases at 344. No interaction with the black object."
+}
+
+Grid 353-353:
+{
+  "object_description": "blue bottle on top shelf",
+  "contact_frame": 327,
+  "separation_frame": 344,
+  "reasoning": "Hand approaches the blue bottle from frame 324, first touches it with fingers at 327, holds it through 343, and releases at 344. No interaction with the white bottle or any other object."
+}Grid 363-378:
+{
+  "object_description": "White bottle on top shelf",
+  "contact_frame": 365,
+  "separation_frame": 370,
+  "reasoning": "Hand reaches towards the white bottle on the top shelf at frame 365, grasps it firmly at 369, and releases it at 370. No interaction with other objects."
+}
+
+Grid 379-394:
+{
+  "object_description": "White remote control on the top shelf.",
+  "contact_frame": 380,
+  "separation_frame": 386,
+  "reasoning": "The hand moves towards the white remote control on the top shelf, reaches out, and grasps it at frame 380. The hand maintains contact with the remote until frame 386 before releasing it."
+}
+
+Grid 395-402:
+{
+  "object_description": "blue bottle on lower left shelf",
+  "contact_frame": 396,
+  "separation_frame": 401,
+  "reasoning": "Hand reaches towards the blue bottle on the lower left shelf at frame 396, grasps it firmly at 398, holds it throughout 400, and releases it at 401. No interaction with other objects."
+}Grid 408-423:
+{
+  "object_description": "blue package on top shelf",
+  "contact_frame": 415,
+  "separation_frame": 423,
+  "reasoning": "The hand reaches towards the blue package on the top shelf in frame 415, grasps it, and holds it until frame 423 when it releases the package."
+}
+
+Grid 424-439:
+```json
+{
+  "object_description": "blue bottle on top shelf",
+  "contact_frame": 327,
+  "separation_frame": 344,
+  "reasoning": "Hand approaches the blue bottle from frame 324, first touches it with fingers at 327, holds it through 343, and releases at 344. No interaction with the white bottle."
+}
+```
+
+Grid 440-450:
+{
+  "object_description": "blue bottle on lower left shelf",
+  "contact_frame": 441,
+  "separation_frame": 450,
+  "reasoning": "Hand reaches towards the blue bottle on the lower left shelf at frame 441, grasps it firmly, and holds it throughout frames 442-450 before releasing it at frame 450."
+}

@@ -1,0 +1,201 @@
+Grid 79-94:
+```json
+{
+  "start_point": [79],
+  "end_point": [94],
+  "reason": "The hand is consistently in contact with the object throughout the sequence, starting from frame 79 where the hand touches the object and ending at frame 94 where the hand separates from the object."
+}
+```
+
+Grid 95-110:
+```json
+{
+  "start_point": [95],
+  "end_point": [110],
+  "reason": "The hand is consistently in contact with the object throughout the sequence, starting from frame 95 where the hand touches the object and ending at frame 110 where the hand separates from the object."
+}
+```
+
+Grid 111-120:
+```json
+{
+  "start_point": [111],
+  "end_point": [118],
+  "reason": "The hand makes unambiguous physical contact with the object on the shelf at frame 111. At frame 118, the hand is no longer in contact with the object, indicating the end of the action."
+}
+```Grid 127-142:
+```json
+{
+  "start_point": [131],
+  "end_point": [138],
+  "reason": "The hand makes unambiguous physical contact with the object on the shelf at frame 131. At frame 138, the hand is no longer in contact with the object, indicating the end of the action."
+}
+```
+
+Grid 143-158:
+```json
+{
+  "start_point": [143],
+  "end_point": [158],
+  "reason": "The hand is seen making contact with the object on the shelf at frame 143 and continues to hold the object until frame 158, indicating a continuous interaction."
+}
+```
+
+Grid 159-164:
+```json
+{
+  "start_point": [159],
+  "end_point": [164],
+  "reason": "The hand makes unambiguous physical contact with the object on the shelf at frame 159. At frame 164, the hand is no longer in contact with the object, indicating the end of the action."
+}
+```Grid 172-187:
+```json
+{
+  "start_point": [172],
+  "end_point": [187],
+  "reason": "The hand is seen making contact with the object on the shelf at frame 172 and continues to hold the object until frame 187, indicating a continuous interaction."
+}
+```
+
+Grid 188-203:
+```json
+{
+  "start_point": [188],
+  "end_point": [203],
+  "reason": "The hand makes unambiguous physical contact with the object on the shelf at frame 188. It remains in contact until frame 203, where the hand is no longer in direct physical contact with the object."
+}
+```
+
+Grid 204-215:
+```json
+{
+  "start_point": [204],
+  "end_point": [215],
+  "reason": "The hand is seen making contact with the object on the shelf at frame 204 and continues to hold the object until frame 215, indicating a continuous interaction."
+}
+```Grid 223-238:
+```json
+{
+  "start_point": [227],
+  "end_point": [238],
+  "reason": "The hand makes unambiguous physical contact with the object on the shelf at frame 227. It remains in contact until frame 238, where the hand is no longer in direct physical contact with the object."
+}
+```
+
+Grid 239-254:
+```json
+{
+  "start_point": [241],
+  "end_point": [242],
+  "reason": "The hand is seen making contact with the object on the shelf at frame 241, indicating the start of the action. At frame 242, the hand is no longer in contact with the object, marking the end of the action."
+}
+```
+
+Grid 255-262:
+```json
+{
+  "start_point": [255],
+  "end_point": [262],
+  "reason": "The hand is seen making contact with the object on the shelf at frame 255 and continues to hold the object until frame 262, indicating a continuous interaction."
+}
+```Grid 272-287:
+```json
+{
+  "start_point": [272],
+  "end_point": [287],
+  "reason": "The hand makes unambiguous physical contact with the object on the shelf at frame 272. It remains in contact until frame 287, where the hand is no longer in direct physical contact with the object."
+}
+```
+
+Grid 288-303:
+```json
+{
+  "start_point": [288],
+  "end_point": [303],
+  "reason": "The hand makes unambiguous physical contact with the object on the shelf at frame 288. At frame 303, the hand is no longer in contact with the object, indicating the final separation."
+}
+```
+
+Grid 304-309:
+```json
+{
+  "start_point": [304],
+  "end_point": [308],
+  "reason": "The hand is seen making contact with the object on the shelf at frame 304 and remains in contact until frame 308."
+}
+```Grid 321-336:
+```json
+{
+  "start_point": [321],
+  "end_point": [336],
+  "reason": "The hand is seen making contact with the object on the shelf at frame 321 and continues to hold the object until frame 336, indicating a continuous interaction."
+}
+```
+
+Grid 337-352:
+```json
+{
+  "start_point": [337],
+  "end_point": [340],
+  "reason": "The hand is seen making contact with the object on the shelf at frame 337 and remains in contact until frame 340."
+}
+```
+
+Grid 353-353:
+```json
+{
+  "start_point": [35],
+  "end_point": [37],
+  "reason": "At frame 35, the hand makes an unambiguous physical contact with the object on the shelf. At frame 37, the hand is no longer in contact with the object."
+}
+```Grid 363-378:
+```json
+{
+  "start_point": [363],
+  "end_point": [378],
+  "reason": "The hand makes unambiguous physical contact with the object on the shelf at frame 363. It remains in contact until frame 378, where the hand is no longer in direct physical contact with the object."
+}
+```
+
+Grid 379-394:
+```json
+{
+  "start_point": [380, 381],
+  "end_point": [387, 388],
+  "reason": "The hand makes unambiguous physical contact with the object at frame 380 and 381, indicating the start of the action. The hand separates from the object at frame 387 and 388, marking the end of the action."
+}
+```
+
+Grid 395-402:
+```json
+{
+  "start_point": [395],
+  "end_point": [402],
+  "reason": "The hand makes contact with the object on the shelf at frame 395 and remains in contact until frame 402, indicating a continuous interaction."
+}
+```Grid 408-423:
+```json
+{
+  "start_point": [412],
+  "end_point": [417],
+  "reason": "The hand is seen making contact with the object on the shelf at frame 412 and continues to hold it until frame 417."
+}
+```
+
+Grid 424-439:
+```json
+{
+  "start_point": [428],
+  "end_point": [437],
+  "reason": "The hand makes unambiguous physical contact with the object on the shelf at frame 428. At frame 437, the hand is no longer in contact with the object, indicating the end of the action."
+}
+```
+
+Grid 440-450:
+```json
+{
+  "start_point": [440],
+  "end_point": [447],
+  "reason": "The hand is seen making contact with the object on the shelf at frame 440 and continues to hold the object until frame 447."
+}
+```
