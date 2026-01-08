@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360">
+  <rect width="100%" height="100%" fill="#fff"/>
+  <g transform="translate(60,20)">
+    <rect width="780" height="300" fill="#fff" stroke="#ddd"/>
+    <!-- axes -->
+    <line x1="40" y1="260" x2="740" y2="260" stroke="#000" stroke-width="1"/>
+    <line x1="40" y1="20" x2="40" y2="260" stroke="#000" stroke-width="1"/>
+    <!-- labels -->
+    <text x="380" y="295" font-size="12" text-anchor="middle">Frame index</text>
+    <text x="-30" y="140" font-size="12" transform="rotate(-90 -30,140)" text-anchor="middle">Signal</text>
+    <!-- tangential accel curve (orange) -->
+    <polyline fill="none" stroke="#ff9900" stroke-width="2" points="
+      40,220 80,180 120,160 160,130 200,115 240,105 280,110 320,125 360,150 400,175 440,195 480,210 520,220 560,225 600,220 640,210 680,200 720,195
+    "/>
+    <!-- boosted vz curve (purple) -->
+    <polyline fill="none" stroke="#6a0dad" stroke-width="2" stroke-dasharray="6,3" points="
+      40,240 80,200 120,170 160,140 200,120 240,110 280,120 320,140 360,170 400,200 440,230 480,240 520,250 560,245 600,235 640,220 680,210 720,200
+    "/>
+    <!-- legend -->
+    <rect x="560" y="25" width="160" height="56" fill="#fff" stroke="#eee"/>
+    <line x1="575" y1="45" x2="595" y2="45" stroke="#ff9900" stroke-width="3"/>
+    <text x="605" y="49" font-size="12">Smoothed tangential accel (a_t)</text>
+    <line x1="575" y1="65" x2="595" y2="65" stroke="#6a0dad" stroke-width="3" stroke-dasharray="6,3"/>
+    <text x="605" y="69" font-size="12">Boosted vz magnitude</text>
+    <!-- title -->
+    <text x="390" y="12" font-size="14" font-weight="600" text-anchor="middle">Illustrative: Savitzky–Golay smoothed tangential acceleration & boosted vz</text>
+  </g>
+</svg>
